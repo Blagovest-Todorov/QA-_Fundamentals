@@ -175,5 +175,5 @@ https://www.atlassi...
 
  
 GITHUB -can also be used as bug-tracking  system, see issues, 
-
+Jira is not only BugTracking  Software, it is osftware to manage all the project !
 
