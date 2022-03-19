@@ -28,7 +28,7 @@ namespace TestCode
                 return;
             }
 
-            if (age <= 0)    ///missing a boundary value <= 0
+            if (age <= 0)    ///missing a boundary value <= 0,  on second step was corrected
             {
                 Console.WriteLine("age is less than or equal zero");
             }
